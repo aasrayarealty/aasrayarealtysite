@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aasrayarealty.com/sitemap.xml
